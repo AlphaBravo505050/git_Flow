@@ -1,4 +1,9 @@
 def return_big_letter(text):
+    """
+    функция делает заглавной каждую букву слова
+    :param text:
+    :return: строку
+    """
     return text.upper()
 
 def return_word_first_letter(text):
